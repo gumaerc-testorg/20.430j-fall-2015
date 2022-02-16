@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource contains information regarding Constitutive equations\
   \ for diffusion (Fick\u2019s Laws)."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/bd6209eeb6af69790d68e2b3c8f25d43_MIT20_430JF15_Lecture4.pdf
+file: /media/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/bd6209eeb6af69790d68e2b3c8f25d43_MIT20_430JF15_Lecture4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: Constitutive equations for diffusion (Fick's Laws); Conservation of mass for
   a control volume; Differential form; Steady diffusion (1D); Boundary conditions
