@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 00af40b1-0dae-3d00-3b84-f7b075853f42
 resourcetype: Document
 title: 'Concentration boundary layers: fully-developed flow and transport'
 uid: b1deaac0-e67f-546f-bac6-10ead2e143a8

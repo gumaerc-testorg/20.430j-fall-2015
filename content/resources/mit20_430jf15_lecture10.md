@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 00af40b1-0dae-3d00-3b84-f7b075853f42
 resourcetype: Document
 title: Laplacian solutions via Separation of Variables; Electric field boundary conditions;
   Ohmic transport; Charge Relaxation; Electrical migration vs. chemical diffusive

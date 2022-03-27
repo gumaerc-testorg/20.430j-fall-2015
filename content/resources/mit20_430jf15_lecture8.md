@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 00af40b1-0dae-3d00-3b84-f7b075853f42
 resourcetype: Document
 title: E-fields and transport; Maxwell's equations
 uid: 39a02a34-4d9e-5d2a-8135-88dfecae2079

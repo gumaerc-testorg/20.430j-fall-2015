@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 00af40b1-0dae-3d00-3b84-f7b075853f42
 resourcetype: Document
 title: "Viscous stress-strain rate relations; Navier\u2013Stokes equations"
 uid: 014a5d0a-0d1a-e822-f193-fb3dba3d1699

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 299acff0-5b2f-8c14-0442-9546dcebb78e
 resourcetype: Document
 title: Fields, Forces, and Flows in Biological Systems Problem Set 2
 uid: da7d65b2-6fd8-a44b-3f90-d608e642e8e4

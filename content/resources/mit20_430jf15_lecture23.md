@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 00af40b1-0dae-3d00-3b84-f7b075853f42
 resourcetype: Document
 title: 'Electrophoresis, chromatography and extracellular matrix biochemistry '
 uid: 1a3454a0-5bc1-14c5-3ad6-4cc7ea90e7f2

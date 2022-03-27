@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 00af40b1-0dae-3d00-3b84-f7b075853f42
 resourcetype: Document
 title: Define electrical potential; conservation of charge; Electro-quasistatics
 uid: efb26b27-dafe-cde1-7450-636297934b71

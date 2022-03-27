@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 00af40b1-0dae-3d00-3b84-f7b075853f42
 resourcetype: Document
 title: Conservation of mass and momentum in fluids; convective solute transfer
 uid: 8a095ad1-19c7-5fe9-0044-dbd5c2574bc3

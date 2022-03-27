@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 00af40b1-0dae-3d00-3b84-f7b075853f42
 resourcetype: Document
 title: MEMs, microfluidics + electrokinetics, cells and hydrogels; (with guest lecture)
 uid: eeb0ae85-2c4f-6ffd-13f6-ec43e622889a
