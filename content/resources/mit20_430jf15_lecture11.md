@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding Electrochemical coupling;\
   \ Electrical double layers; Poisson\u2013Boltzmann Equation."
-file: /media/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/de67b2d9488c84a9f014471f571c20ae_MIT20_430JF15_Lecture11.pdf
+file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/de67b2d9488c84a9f014471f571c20ae_MIT20_430JF15_Lecture11.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -15,3 +15,5 @@ title: "Electrochemical coupling; Electrical double layers; Poisson\u2013Boltzma
   \ Equation"
 uid: de67b2d9-488c-84a9-f014-471f571c20ae
 ---
+This resource contains information regarding Electrochemical coupling; Electrical double layers; Poisson–Boltzmann Equation.
+

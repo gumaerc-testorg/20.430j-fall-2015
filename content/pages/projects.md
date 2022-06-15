@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the term paper required for the course,
+  including a project description, objectives, teams, and suggested approach.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
