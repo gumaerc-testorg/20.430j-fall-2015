@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Capillary electroosmosis: Theory and experiments'
 uid: 921032b5-cb8e-d007-f697-13deb36d7271
 ---
 This resource contains information regarding Capillary electroosmosis: Theory and experiments.
-

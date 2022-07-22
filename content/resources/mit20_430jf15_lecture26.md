@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Cell/molecular electrokinetics; review of term paper project
 uid: 7ab0f07d-3716-8ea9-62e6-52b25452aef1
 ---
 This resource contains information regarding Cell/molecular electrokinetics; review of term paper project.
-

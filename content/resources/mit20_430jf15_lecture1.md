@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Course introduction, overview, and objectives
 uid: 2c91de6f-a25b-4b73-b645-0a1a21e40872
 ---
 This resource contains information regarding Course introduction, overview, and objectives.
-

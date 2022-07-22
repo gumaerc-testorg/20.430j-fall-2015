@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Viscous stress-strain rate relations; Navier\u2013Stokes equations"
 uid: 014a5d0a-0d1a-e822-f193-fb3dba3d1699
 ---
 This resource contains information regarding Viscous stress-strain rate relations; Navier–Stokes equations.
-

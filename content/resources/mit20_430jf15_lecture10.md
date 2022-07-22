@@ -7,6 +7,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Laplacian solutions via Separation of Variables; Electric field boundary 
 uid: d0f7686e-3ca9-e9e4-dcea-709d853dbbca
 ---
 This resource contains information regarding Laplacian solutions via Separation of Variables; Electric field boundary conditions; Ohmic transport; Charge Relaxation; Electrical migration vs. chemical diffusive fluxes.
-

@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: E-fields and transport; Maxwell's equations
 uid: 39a02a34-4d9e-5d2a-8135-88dfecae2079
 ---
 This resource contains information regarding E-fields and transport; Maxwell’s equations.
-

@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MEMs, microfluidics + electrokinetics, cells and hydrogels; (with guest l
 uid: eeb0ae85-2c4f-6ffd-13f6-ec43e622889a
 ---
 This resource contains information regarding MEMs, microfluidics + electrokinetics, cells and hydrogels; (with guest lecture).
-

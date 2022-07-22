@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Conservation of mass and momentum in fluids; convective solute transfer
 uid: 8a095ad1-19c7-5fe9-0044-dbd5c2574bc3
 ---
 This resource contains information regarding Conservation of mass and momentum in fluids; convective solute transfer.
-

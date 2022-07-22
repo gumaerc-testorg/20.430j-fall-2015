@@ -7,6 +7,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Case study: IGF-1 diffusion-reaction within tissues and cell seeded scaf
 uid: 9010aebc-c2aa-7da7-c47e-a6aecac457e1
 ---
 This resource contains information regarding Case study: IGF-1 diffusion-reaction within tissues and cell seeded scaffolds; binding to IGF binding proteins & cell surface receptors; experimental methods.
-

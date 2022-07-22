@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Define electrical potential; conservation of charge; Electro-quasistatics
 uid: efb26b27-dafe-cde1-7450-636297934b71
 ---
 This resource contains information regarding Define electrical potential; conservation of charge; Electro-quasistatics.
-

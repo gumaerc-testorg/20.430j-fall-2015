@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Concentration boundary layers: fully-developed flow and transport'
 uid: b1deaac0-e67f-546f-bac6-10ead2e143a8
 ---
 This resource contains information regarding Concentration boundary layers: Fully-developed flow and transport.
-

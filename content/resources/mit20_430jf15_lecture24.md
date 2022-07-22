@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'DLVO theory: double layer repulsion and molecular interactions (proteins
 uid: c5e92ff1-8878-8ab8-daaa-5759b6939ea8
 ---
 This resource contains information regarding DLVO theory: Double layer repulsion and molecular interactions (proteins, DNA, GAGs).
-

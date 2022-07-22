@@ -7,6 +7,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Case study: charged protein transport in charged tissues & gels; Donnan 
 uid: d9a46ba5-a879-e0b8-f949-c1f640524c54
 ---
 This resource contains information regarding Case study: charged protein transport in charged tissues & gels; Donnan partitioning, diffusion-reaction in extracellular matrix; experimental methods.
-

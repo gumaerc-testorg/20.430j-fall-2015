@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Low Reynolds number flows; Stokes equation; Scaling and dimensional analy
 uid: b8ddacc1-396e-ad19-f447-39e6c0f7d530
 ---
 This resource contains information regarding Low Reynolds number flows; Stokes equation; Scaling and dimensional analysis.
-

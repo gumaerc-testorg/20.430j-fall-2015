@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Diffusion as a Random Walk; Stokes-Einstein Relation for Diffusion Coeffi
 uid: f7843feb-7e5a-92c2-5b74-56ed7989c479
 ---
 This resource contains information regarding Diffusion as a random walk; Stokes-Einstein relation for diffusion coefficient.
-

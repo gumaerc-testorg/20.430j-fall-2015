@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction to random processes; Boltzmann distribution and statistical
 uid: 56280b77-6581-5166-24e9-256bf1466520
 ---
 This resource contains information regarding Introduction to random processes; Boltzmann distribution and statistical thermodynamics.
-

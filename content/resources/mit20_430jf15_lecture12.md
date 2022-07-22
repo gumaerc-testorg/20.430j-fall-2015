@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Donnan equilibrium in tissues, gels, polyelectrolyte networks
 uid: 38e30882-b43d-d092-f27c-432c17b36121
 ---
 This resource contains information regarding Donnan equilibrium in tissues, gels, polyelectrolyte networks.
-

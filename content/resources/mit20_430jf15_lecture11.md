@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Electrochemical coupling; Electrical double layers; Poisson\u2013Boltzma
 uid: de67b2d9-488c-84a9-f014-471f571c20ae
 ---
 This resource contains information regarding Electrochemical coupling; Electrical double layers; Poisson–Boltzmann Equation.
-

@@ -6,6 +6,7 @@ file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Electrophoresis, chromatography and extracellular matrix biochemistry '
 uid: 1a3454a0-5bc1-14c5-3ad6-4cc7ea90e7f2
 ---
 This resource contains information regarding Electrophoresis, chromatography and extracellular matrix biochemistry.
-
