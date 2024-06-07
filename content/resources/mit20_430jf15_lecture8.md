@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information regarding E-fields and transport;\
   \ Maxwell\u2019s equations."
 file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/39a02a344d9e5d2a813588dfecae2079_MIT20_430JF15_Lecture8.pdf
+file_size: 1257951
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

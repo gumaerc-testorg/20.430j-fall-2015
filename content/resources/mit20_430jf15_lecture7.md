@@ -4,6 +4,7 @@ description: 'This resource contains information regarding Case study: IGF-1 dif
   within tissues and cell seeded scaffolds; binding to IGF binding proteins & cell
   surface receptors; experimental methods.'
 file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/9010aebcc2aa7da7c47ea6aecac457e1_MIT20_430JF15_Lecture7.pdf
+file_size: 1951826
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
