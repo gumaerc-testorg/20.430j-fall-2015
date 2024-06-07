@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Diffusion and convection;
   The Peclet number; Convection-diffusion-reaction and boundary layers.
 file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/1a2b50cdc52990a6dac50a4591a53a61_MIT20_430JF15_Lecture19.pdf
+file_size: 2754059
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

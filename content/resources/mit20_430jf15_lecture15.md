@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Conservation of mass and
   momentum in fluids; convective solute transfer.
 file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/8a095ad119c75fe90044dbd5c2574bc3_MIT20_430JF15_Lecture15.pdf
+file_size: 2846760
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
