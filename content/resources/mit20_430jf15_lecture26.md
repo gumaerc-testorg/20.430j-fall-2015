@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Cell/molecular electrokinetics;
   review of term paper project.
 file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/7ab0f07d37168ea962e652b25452aef1_MIT20_430JF15_Lecture26.pdf
+file_size: 2433331
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

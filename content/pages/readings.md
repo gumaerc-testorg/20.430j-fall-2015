@@ -11,7 +11,7 @@ uid: 4ac6c126-2f50-0e31-827e-a2c9b43099be
 
 Reading assignments are from the required course textbook:
 
-Grodzinsky, Alan. _Field, Forces and Flows in Biological Systems_. Garland Science, 2011. ISBN: 9780815342120. \[Preview with {{% resource_link "44ab3cdb-f624-431e-ae3f-e60a769d850f" "Google Books" %}}\]
+Grodzinsky, Alan. _Field, Forces and Flows in Biological Systems_. Garland Science, 2011. ISBN: 9780815342120. \[Preview with [Google Books](http://books.google.com/books?id=lCoWBAAAQBAJ&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}

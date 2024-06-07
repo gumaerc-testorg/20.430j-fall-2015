@@ -14,13 +14,13 @@ Project Description
 
 The project for this course is a term paper, based on this journal article:
 
-Provenzano, Paolo P., Carlos Cuevas, et al. "{{% resource_link "ce1bffed-bc06-4cad-b1a8-d1f98e745853" "Enzymatic Targeting of the Stroma Ablates Physical Barriers to Treatment of Pancreatic Ductal Adenocarcinoma" %}}." _Cancer Cell_ 21, no. 3 (2012): 418–29.
+Provenzano, Paolo P., Carlos Cuevas, et al. "[Enzymatic Targeting of the Stroma Ablates Physical Barriers to Treatment of Pancreatic Ductal Adenocarcinoma](http://dx.doi.org/10.1016/j.ccr.2012.01.007)." _Cancer Cell_ 21, no. 3 (2012): 418–29.
 
 These articles will provide you with further background information:
 
-Provenzano, P. P., and S. R. Hingorani. "{{% resource_link "08d87828-a45c-408d-8dba-21ce1554a05b" "Hyaluronan, Fluid Pressure, and Stromal Resistance in Pancreas Cancer" %}}." _British Journal of Cancer_ 108, no. 1 (2013): 1–8.
+Provenzano, P. P., and S. R. Hingorani. "[Hyaluronan, Fluid Pressure, and Stromal Resistance in Pancreas Cancer](http://dx.doi.org/10.1038/bjc.2012.569)." _British Journal of Cancer_ 108, no. 1 (2013): 1–8.
 
-Chauhan, Vikash P., Yves Boucher, et al. "{{% resource_link "ea7c9e3b-c0fc-474d-998a-6070b9f4fca4" "Compression of Pancreatic Tumor Blood Vessels by Hyaluronan is Caused by Solid Stress and Not Interstitial Fluid Pressure" %}}." _Cancer Cell_ 26, no. 1 (2014): 14–15.
+Chauhan, Vikash P., Yves Boucher, et al. "[Compression of Pancreatic Tumor Blood Vessels by Hyaluronan is Caused by Solid Stress and Not Interstitial Fluid Pressure](http://dx.doi.org/10.1016%2Fj.ccr.2014.06.003)." _Cancer Cell_ 26, no. 1 (2014): 14–15.
 
 The main controversy concerns the physicochemical mechanisms that are hypothesized to affect transport of chemotherapeutics to the tumor cells: "Do fluid pressures collapse vessels or do collapsed vessels lead to increased fluid pressures?"
 
@@ -53,9 +53,9 @@ You should first read the paper as if you were asked by a journal editor to prov
 
 For instructions on how to write an effective review, consult the following resources:
 
-Drubin, David G. "{{% resource_link "debc3cd2-7994-499c-88bf-bd976a210cdb" "Any Jackass can Trash a Manuscript, But It Takes Good Scholarship to Create One (How _MBoC_ Promotes Civil and Constructive Peer Review)" %}}." _Molecular Biology of the Cell_ 22, no. 5 (2011): 525–27.
+Drubin, David G. "[Any Jackass can Trash a Manuscript, But It Takes Good Scholarship to Create One (How _MBoC_ Promotes Civil and Constructive Peer Review)](http://dx.doi.org/10.1091/mbc.E11-01-0002)." _Molecular Biology of the Cell_ 22, no. 5 (2011): 525–27.
 
-Neill, Ushma S. "{{% resource_link "15f90bac-f616-47ea-a60c-7dbb3d6957bc" "How to Write an Effective Referee Report" %}}." _The Journal of Clinical Investigation_ 119, no. 5 (2009): 1058–60.
+Neill, Ushma S. "[How to Write an Effective Referee Report](http://dx.doi.org/10.1172%2FJCI39424)." _The Journal of Clinical Investigation_ 119, no. 5 (2009): 1058–60.
 
 Your paper should include the following:
 
