@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Porous media flows: Extracellular
   and intracellular.'
-file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/eb736dc756de80bfeeaed5e7a7df9928_MIT20_430JF15_Lecture25.pdf
+file: /ol-ocw-studio-app/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/eb736dc756de80bfeeaed5e7a7df9928_MIT20_430JF15_Lecture25.pdf
 file_size: 2213859
 file_type: application/pdf
 learning_resource_types:
