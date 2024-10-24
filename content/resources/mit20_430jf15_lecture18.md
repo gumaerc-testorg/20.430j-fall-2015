@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Newtonian, fully developed
   low Reynolds number flows.
-file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/743fc51bfc5ac7421619b97fc4165176_MIT20_430JF15_Lecture18.pdf
+file: /ol-ocw-studio-app/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/743fc51bfc5ac7421619b97fc4165176_MIT20_430JF15_Lecture18.pdf
 file_size: 1068835
 file_type: application/pdf
 learning_resource_types:
