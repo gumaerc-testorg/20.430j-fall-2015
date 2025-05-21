@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding DLVO theory: Double layer
   repulsion and molecular interactions (proteins, DNA, GAGs).'
-file: /ol-ocw-studio-app/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/c5e92ff188788ab8daaa5759b6939ea8_MIT20_430JF15_Lecture24.pdf
+file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/c5e92ff188788ab8daaa5759b6939ea8_MIT20_430JF15_Lecture24.pdf
 file_size: 1318550
 file_type: application/pdf
 learning_resource_types:

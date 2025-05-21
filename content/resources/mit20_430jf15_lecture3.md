@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Diffusion as a random walk;
   Stokes-Einstein relation for diffusion coefficient.
-file: /ol-ocw-studio-app/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/f7843feb7e5a92c25b7456ed7989c479_MIT20_430JF15_Lecture3.pdf
+file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/f7843feb7e5a92c25b7456ed7989c479_MIT20_430JF15_Lecture3.pdf
 file_size: 1541079
 file_type: application/pdf
 learning_resource_types:
