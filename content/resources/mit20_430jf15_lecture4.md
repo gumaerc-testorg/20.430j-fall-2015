@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding Constitutive equations\
   \ for diffusion (Fick\u2019s Laws)."
-file: /ol-ocw-studio-app/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/bd6209eeb6af69790d68e2b3c8f25d43_MIT20_430JF15_Lecture4.pdf
+file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/bd6209eeb6af69790d68e2b3c8f25d43_MIT20_430JF15_Lecture4.pdf
 file_size: 122575
 file_type: application/pdf
 learning_resource_types:

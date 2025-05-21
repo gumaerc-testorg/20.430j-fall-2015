@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding Laplacian solutions via
   Separation of Variables; Electric field boundary conditions; Ohmic transport; Charge
   Relaxation; Electrical migration vs. chemical diffusive fluxes.
-file: /ol-ocw-studio-app/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/d0f7686e3ca9e9e4dcea709d853dbbca_MIT20_430JF15_Lecture10.pdf
+file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/d0f7686e3ca9e9e4dcea709d853dbbca_MIT20_430JF15_Lecture10.pdf
 file_size: 2304028
 file_type: application/pdf
 learning_resource_types:
