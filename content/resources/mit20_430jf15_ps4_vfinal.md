@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Problem Set 4.
-file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/361b3e1585999d51f3ac860a9258d099_MIT20_430JF15_PS4_vFinal.pdf
+file: /ol-ocw-studio-app/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/361b3e1585999d51f3ac860a9258d099_MIT20_430JF15_PS4_vFinal.pdf
 file_size: 128604
 file_type: application/pdf
 learning_resource_types:
