@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Problem Set 8.
-file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/834ca69460983573da2596b6799a12a7_MIT20_430JF15_PS8_NotGrad.pdf
+file: /ol-ocw-studio-app/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/834ca69460983573da2596b6799a12a7_MIT20_430JF15_PS8_NotGrad.pdf
 file_size: 153453
 file_type: application/pdf
 learning_resource_types:

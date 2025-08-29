@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Introduction to random processes;
   Boltzmann distribution and statistical thermodynamics.
-file: /courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/56280b776581516624e9256bf1466520_MIT20_430JF15_Lecture2.pdf
+file: /ol-ocw-studio-app/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/56280b776581516624e9256bf1466520_MIT20_430JF15_Lecture2.pdf
 file_size: 1313699
 file_type: application/pdf
 learning_resource_types:
