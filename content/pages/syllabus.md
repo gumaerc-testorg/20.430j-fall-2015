@@ -18,7 +18,7 @@ Prerequisites
 
 [_6.013 Electromagnetics and Applications_](/courses/6-013-electromagnetics-and-applications-spring-2009)
 
-{{% resource_link "d4f0addb-3d1f-4c82-95d4-0e29df21e1bd" "_2.005 Thermal-Fluids Engineering I_" %}}
+[_2.005 Thermal-Fluids Engineering I_](http://student.mit.edu/catalog/m2a.html#2.005)
 
 [_10.302 Transport Processes_](/courses/10-302-transport-processes-fall-2004)
 
@@ -32,7 +32,7 @@ Textbook
 
 ### Required Textbook
 
-Grodzinsky, Alan. _Field, Forces and Flows in Biological Systems_. Garland Science, 2011. ISBN: 9780815342120. \[Preview with {{% resource_link "1b83d686-3bfa-4f4d-8f3c-0b136572416c" "Google Books" %}}\]
+Grodzinsky, Alan. _Field, Forces and Flows in Biological Systems_. Garland Science, 2011. ISBN: 9780815342120. \[Preview with [Google Books](http://books.google.com/books?id=lCoWBAAAQBAJ&pg=PAfrontcover)\]
 
 ### Supplementary Textbook
 
